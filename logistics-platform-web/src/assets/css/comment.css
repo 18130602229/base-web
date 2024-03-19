@@ -1,0 +1,21 @@
+.myTable{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.searchInfo{
+    background-color: #eeeeee;
+    color: #409eff;
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+}
+.tableStyle{
+    margin: 10px 10px 0px 10px;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.el-table thead {
+    color: #0e0e0e;
+    font-weight: 600;
+}
+i{ font-style: normal;}
